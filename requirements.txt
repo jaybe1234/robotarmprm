@@ -24,7 +24,7 @@ cssselect==1.0.3
 cycler==0.10.0
 Cython==0.29
 decorator==4.2.1
-Django==2.0.7
+Django==2.2.24
 docutils==0.14
 easygui==0.98.1
 entrypoints==0.2.3
