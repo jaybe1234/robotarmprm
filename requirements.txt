@@ -60,7 +60,7 @@ Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 loader==2017.9.11
 lv==0.1.2
-lxml==4.2.3
+lxml==4.9.1
 Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==2.1.2
