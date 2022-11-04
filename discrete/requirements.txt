@@ -138,7 +138,7 @@ testpath==0.3.1
 torch==0.4.1
 tornado==5.0
 traitlets==4.3.2
-Twisted==18.7.0
+Twisted==22.10.0
 urllib3==1.22
 virtualenv==15.2.0
 virtualenv-clone==0.3.0
